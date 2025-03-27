@@ -1,7 +1,23 @@
 # DailyBlogs
-Welcome to our engaging blog platform! As a reader, dive into a variety of captivating posts. As an author, effortlessly create, update, and share your unique stories. With features to view, post, update, and delete blogs, our site is your one-stop destination for all things blogging.
+A fully functional blog platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), emphasizing seamless user experience and robust backend integration. 
 
-Installation:
+#### **Frontend (React.js):**
+- Developed reusable and modular components for efficient UI/UX design.
+- Utilized **React Hooks** (`useState`, `useEffect`, `useReducer`) for state and lifecycle management.
+- Integrated **Context API** for global state management, handling user roles and authentication.
+- Implemented **React Router** for dynamic routing and role-specific paths (reader vs. author).
+- Features:
+  - Separate registration forms for **reader** and **author**.
+  - **Dashboard/Admin Panel** for authors to perform CRUD operations on blogs.
+  - Category filtering for blogs (sports, tech, business, etc.).
+  - Responsive design using modern CSS frameworks.
+
+#### **Backend (Node.js & Express.js):**
+- Designed RESTful APIs for user authentication, blog CRUD operations, and category filtering.
+- Implemented JWT-based authentication and authorization to secure API endpoints.
+- Integrated with **MongoDB** for efficient storage and retrieval of user and blog data.
+
+Installation Process:
 1) clone this repo.
 2) Perform npm install in both backend and frontend folder seperately
 3) View the website on your localhost
