@@ -1,4 +1,4 @@
-# DailyBlogs    Website Preview => [Demo Video Link](https://www.youtube.com/watch?v=k--KQeXOqus)
+# DailyBlogs                                              Website Preview => [Demo Video Link](https://www.youtube.com/watch?v=k--KQeXOqus)
 A fully functional blog platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), emphasizing seamless user experience and robust backend integration. 
 
 #### **Frontend (React.js):**
