@@ -16,6 +16,7 @@ A fully functional blog platform built with the **MERN stack** (MongoDB, Express
 - Designed RESTful APIs for user authentication, blog CRUD operations, and category filtering.
 - Implemented JWT-based authentication and authorization to secure API endpoints.
 - Integrated with **MongoDB** for efficient storage and retrieval of user and blog data.
+- Cloudinary for cloud storage of file and images.
 
 Installation Process:
 1) clone this repo.
